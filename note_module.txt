@@ -1,0 +1,6 @@
+versioning github
+
+git tag --> check what versioning
+
+git tag v1.0.0  --> set new versioning
+git push origin v1.0.0  --> push new tag in github repo
